@@ -69,7 +69,9 @@ HELP_CHANNELS = ["help",
                  "help_1",
                  "help_2",
                  "help_3",
-                 "help_overflow"]
+                 "help_overflow",
+                            "dogs",
+                            "show_and_tell","politics_enter_at_own_risk"]
 
 DISCORD_BG_COLOR = '#36393E'
 
